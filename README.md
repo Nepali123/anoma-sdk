@@ -5,7 +5,7 @@
 
  - `zkvm`: The library that implements the NIFs for Elixir.
  - `aarm_core` : The library from Anoma that contains some data structures. Ideally these should be merged with zkvm.
- - `zkvm_guest`: The zkvm guest library. t=This compiles the binaries used to generate proofs and it not used in the library itself and is only here to keep it in the same repository.
+ - `zkvm_guest`: The zkvm guest library. This compiles the binaries used to generate proofs and it not used in the library itself and is only here to keep it in the same repository.
 
 
 ## Build `zkvm_guest`
